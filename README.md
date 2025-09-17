@@ -32,12 +32,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-![Mikel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaikelGz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaikelGz&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Idiomas
 - **Español:** Nativo  
 - **Inglés:** Intermedio/Avanzado  
@@ -51,4 +45,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaikelGz)  
 
 ---
+![Ace One Piece](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhoNnhuMG1ubjJjMGdrc2xmZnlybXNwaWd0dmp4bzB4MDMwcHZqMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z8499G57Bne3m/giphy.gif)
 
