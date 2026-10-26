@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Mikel González Rodríguez  
 
-🎓 Estudiante de **Ingeniería del Software** en la **Universidad de Oviedo**  
+🎓 Graduado de **Ingeniería del Software** en la **Universidad de Oviedo**  
 💡 Apasionado por el desarrollo de software, el análisis de datos y la IA  
 🚀 Buscando aprender y aportar en proyectos innovadores  
 
